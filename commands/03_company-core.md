@@ -4,7 +4,7 @@
 
 # 输入
 
-- 必填：Research Charter；企业名称。
+- 必填：已确认的 Research Scope；企业名称。
 - 选填：公司资料、财报、产品材料、高管信息。
 - 缺失时：按证据规则降级，并列入 Information Gap。
 

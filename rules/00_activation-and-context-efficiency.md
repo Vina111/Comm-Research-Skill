@@ -8,7 +8,8 @@
 
 - “需要你帮我用 Strategy Research 的 skill 帮我做调研”；
 - “请调用 Strategy Research Skill”；
-- “这个任务按 Strategy Research Skill 来做”。
+- “这个任务按 Strategy Research Skill 来做”；
+- “Use the Strategy Research skill to research ___.”（中英文均可触发）。
 
 启用需要同时满足：
 
@@ -104,6 +105,7 @@ Scope 确认后：
 |---|---|
 | `/intake` | `rules/00` + `rules/01` |
 | `/define-scope` | `rules/00` + `rules/01` + 按任务读取 `rules/03`、`rules/04`、`rules/05` 或 `rules/09` |
+| `/auto-research` | `Research State` 中的 `Selected Commands` 与 `Selected Rules`，按模块逐个加载 |
 | `/company-core` | `rules/02` + `rules/08` |
 | `/ecosystem-map` | `rules/02` + `rules/07` + `rules/08` |
 | `/market-competition` | `rules/02` + `rules/03` + `rules/08` |
