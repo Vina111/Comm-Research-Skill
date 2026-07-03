@@ -47,4 +47,4 @@
 
 # Source Log 字段
 
-| Claim | Source | Source Type | Market/Edition | Published Date | Accessed Date | Confidence | Notes |
+| Claim | Source (URL) | Source Type | Market/Edition | Published Date | Accessed Date | Confidence | Notes |

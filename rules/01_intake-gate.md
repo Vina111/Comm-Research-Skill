@@ -4,9 +4,7 @@
 
 # Activation Gate
 
-只有用户明确要求使用 Strategy Research Skill 时，才可进入 `/intake`。
-
-普通单点 Research 请求不满足该门槛，按普通任务处理。
+启用门槛以 `rules/00_activation-and-context-efficiency.md` 为准；未满足显式调用条件时，不得进入 `/intake`。
 
 # Intake Gate
 

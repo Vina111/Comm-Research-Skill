@@ -1,7 +1,5 @@
 ---
 name: strategy-research
-aliases:
-  - pr-pre-strategy-research
 description: 仅在用户明确要求调用“Strategy Research” Skill 时启用。用于在公关方案制定前，对企业、品牌、展会、活动、峰会及其业务生态、参与者、市场、受众、历史媒体表现、舆情数据与风险进行结构化调研。Activate only when the user explicitly invokes the "Strategy Research" skill; structured pre-strategy PR research on companies, brands, trade shows, events and summits.
 language: zh-CN
 version: 5.1
