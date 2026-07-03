@@ -4,7 +4,7 @@
 
 # 输入
 
-- 必填：Research Charter；Company Core Brief。
+- 必填：已确认的 Research Scope；Company Core Brief。
 - 选填：供应商、客户、渠道、生产基地、合作项目资料。
 - 缺失时：仅使用可核实公开信息并标注关系强度。
 

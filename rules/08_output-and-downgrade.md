@@ -22,6 +22,8 @@
 - `Offsite Brand Event`：品牌在场外自行举办；
 - `Unable to Verify Launch`：无法证明属于活动期间正式发布。
 
+发布场景的完整七类分类（含 Pre-show Announcement、Demo / Showcase Only 等）以 `rules/09_event-research-standard.md` 的“发布与活动边界”为准。
+
 # 固定禁止项
 
 不得输出：
@@ -45,4 +47,4 @@
 
 # Source Log 字段
 
-| Claim | Source | Source Type | Market/Edition | Published Date | Accessed Date | Confidence | Notes |
+| Claim | Source (URL) | Source Type | Market/Edition | Published Date | Accessed Date | Confidence | Notes |
